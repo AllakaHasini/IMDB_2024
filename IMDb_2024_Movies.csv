@@ -1,0 +1,401 @@
+Movie Name,Genre,Rating,Votes,Duration
+Gladiator,Action,8.5,67,155
+Mission: Impossible - Dead Reckoning Part One,Action,7.7,81,163
+Rebel Moon - Part Two: The Scargiver,Action,5.2,35,122
+Inglourious Basterds,Adventure,8.4,69,153
+Borderlands,Action,7.1,66.9,116.3
+Jurassic Park,Action,8.2,68,127
+The Fifth Element,Action,7.6,52,126
+Inside Out,Animation,8.1,94,95
+Descendants: The Rise of Red,Action,7.1,66.9,116.3
+Wish,Animation,5.6,47,95
+The Hunger Games,Action,7.2,68,142
+Rebel Moon - Part One: A Child of Fire,Action,5.6,31,133
+Harry Potter and the Sorcerer's Stone,Adventure,7.6,65,152
+Wonka,Adventure,7,66,116
+Inception,Action,8.8,74,148
+The Lord of the Rings: The Fellowship of the Ring,Action,8.9,92,178
+Twister,Action,6.5,68,113
+Damsel,Action,6.1,46,110
+Dune,Action,6.3,41,137
+Arthur the King,Adventure,7,54,107
+Kung Fu Panda 4,Animation,6.3,54,94
+Mad Max Beyond Thunderdome,Action,6.2,71,107
+Manjummel Boys,Adventure,8.4,66.9,116.3
+Golden Kamuy,Action,6.4,66.9,116.3
+Interstellar,Adventure,8.7,74,169
+Planet of the Apes,Adventure,8,79,112
+Barbie,Adventure,6.8,80,114
+Twisters,Action,7.1,66.9,116.3
+The Hunger Games: The Ballad of Songbirds & Snakes,Action,6.7,54,157
+Inside Out 2,Animation,7.1,66.9,100
+Bad Boys: Ride or Die,Action,7.1,66.9,116.3
+Mad Max 2: The Road Warrior,Action,7.6,77,96
+Godzilla Minus One,Action,7.9,81,124
+Love Lies Bleeding,Action,6.7,77,104
+Dawn of the Planet of the Apes,Action,7.6,79,130
+Planet of the Apes,Action,5.7,50,120
+Mad Max,Action,6.8,73,88
+War for the Planet of the Apes,Action,7.4,82,140
+Ghostbusters: Frozen Empire,Adventure,6.2,46,115
+Thelma the Unicorn,Animation,5.8,64,93
+Dune,Action,8,74,155
+The Garfield Movie,Animation,5.9,31,101
+Godzilla x Kong: The New Empire,Action,6.2,47,115
+Madame Web,Action,3.9,26,116
+Civil War,Action,7.4,75,109
+Mad Max: Fury Road,Action,8.1,90,120
+Atlas,Action,5.6,37,118
+Dune: Part Two,Action,8.6,79,166
+Kingdom of the Planet of the Apes,Action,7.2,66,145
+Furiosa: A Mad Max Saga,Action,7.9,79,148
+WALL·E,Animation,8.4,95,98
+Spider-Man: Beyond the Spider-Verse,Animation,7.1,66.9,116.3
+Hercules,Animation,7.3,74,93
+Sing,Animation,7.1,59,108
+Castle in the Sky,Animation,8,78,125
+"Monsters, Inc.",Animation,8.1,79,92
+Tangled,Animation,7.7,71,100
+Up,Animation,8.3,88,96
+Toy Story,Animation,8.3,96,81
+Puss in Boots: The Last Wish,Animation,7.8,73,102
+Encanto,Animation,7.2,75,102
+Coco,Animation,8.4,81,105
+Frozen,Animation,7.4,75,102
+Mufasa: The Lion King,Animation,7.1,66.9,116.3
+Howl's Moving Castle,Animation,8.2,82,119
+Zootopia,Animation,8,78,108
+Teenage Mutant Ninja Turtles: Mutant Mayhem,Animation,7.2,74,99
+Kung Fu Panda,Animation,7.6,74,92
+The Lion King,Animation,6.8,55,118
+Spider-Man: Into the Spider-Verse,Animation,8.4,87,117
+The Incredibles,Animation,8,90,115
+Mars Express,Animation,7.5,76,88
+Shrek 2,Animation,7.3,75,93
+Your Name.,Animation,8.4,81,116.3
+Elemental,Animation,7,58,101
+Ratatouille,Animation,8.1,96,111
+Moana,Animation,7.6,81,107
+Harold and the Purple Crayon,Animation,7.1,66.9,92
+Finding Nemo,Animation,8.2,90,100
+Sing 2,Animation,7.3,49,110
+Trolls Band Together,Animation,6,53,91
+Transformers One,Animation,7.1,66.9,116.3
+The Boy and the Heron,Animation,7.6,91,124
+The Lion King,Animation,8.5,88,88
+Cars,Animation,7.2,73,116
+Shrek,Animation,7.9,84,90
+Spirited Away,Animation,8.6,96,125
+Moana 2,Animation,7.1,66.9,116.3
+The Super Mario Bros. Movie,Animation,7,46,92
+The Lord of the Rings: The War of the Rohirrim,Animation,7.1,66.9,116.3
+Despicable Me 4,Animation,7.1,66.9,95
+Migration,Animation,6.7,56,83
+Spider-Man: Across the Spider-Verse,Animation,8.6,86,140
+Inside Out,Animation,8.1,94,95
+Wish,Animation,5.6,47,95
+Kung Fu Panda 4,Animation,6.3,54,94
+Inside Out 2,Animation,7.1,66.9,100
+Thelma the Unicorn,Animation,5.8,64,93
+The Garfield Movie,Animation,5.9,31,101
+IF,Animation,6.7,46,104
+Taxi Driver,Crime,8.2,94,114
+Kill Bill: Vol. 1,Action,8.2,69,111
+We're the Millers,Comedy,7,44,110
+The Green Mile,Crime,8.6,61,189
+Animal,Action,6.2,33,204
+Prisoners,Crime,8.2,70,153
+12 Angry Men,Crime,9,97,96
+Joker,Crime,8.4,59,122
+Sicario,Action,7.7,82,121
+Baby Driver,Action,7.5,86,113
+The Crow,Action,7.5,71,102
+Léon: The Professional,Action,8.5,64,110
+In the Land of Saints and Sinners,Action,6.3,60,106
+The Equalizer,Action,7.2,57,132
+The Equalizer 3,Action,6.8,58,109
+Wicked Little Letters,Comedy,7,58,100
+Beverly Hills Cop,Action,7.4,66,105
+The Silence of the Lambs,Crime,8.6,86,118
+Heat,Action,8.3,76,170
+No Country for Old Men,Crime,8.2,92,122
+Se7en,Crime,8.6,65,127
+John Wick: Chapter 4,Action,7.7,78,169
+The Talented Mr. Ripley,Crime,7.4,76,139
+The Outsiders,Crime,7,45,91
+The Departed,Crime,8.5,85,151
+Goodfellas,Biography,8.7,92,145
+MaXXXine,Crime,7.1,66.9,103
+The Wolf of Wall Street,Biography,8.2,75,180
+The Batman,Action,7.8,72,176
+The Courier,Crime,6,66.9,116.3
+The Dark Knight,Action,9,84,152
+Killers of the Flower Moon,Crime,7.6,89,206
+Pulp Fiction,Crime,8.9,95,154
+Force of Nature: The Dry 2,Crime,6,58,120
+The Crow,Action,7.1,66.9,116.3
+Anatomy of a Fall,Crime,7.7,86,151
+The Bikeriders,Crime,7.5,73,116
+The Godfather,Crime,9.2,100,175
+The Gentlemen,Action,7.8,51,113
+The Judge,Crime,7.4,48,141
+The Last Stop in Yuma County,Crime,7,72,90
+Beverly Hills Cop: Axel F,Action,7.1,66.9,115
+Bad Boys: Ride or Die,Action,7.1,66.9,116.3
+Love Lies Bleeding,Action,6.7,77,104
+Hit Man,Action,7.4,83,115
+Longlegs,Crime,7.1,66.9,101
+Disturbia,Crime,6.8,62,105
+A Simple Favor,Comedy,6.8,67,117
+Emilia Perez,Comedy,7.2,70,116.3
+Boy Kills World,Action,6.5,47,111
+Monster,Horror,4.6,66.9,86
+Glass,Drama,6.6,43,129
+Lisa Frankenstein,Comedy,6.1,47,101
+It,Fantasy,7.3,69,135
+Smile,Horror,6.5,68,115
+The Dead Don't Die,Comedy,5.5,53,104
+Nosferatu,Fantasy,7.1,66.9,116.3
+A Serbian Film,Horror,5,66.9,104
+Mandy,Action,6.5,83,121
+The Crow,Action,7.5,71,102
+The Prodigy,Fantasy,5.9,45,92
+Split,Horror,7.3,63,117
+The Menu,Comedy,7.2,71,107
+Nope,Horror,6.8,77,130
+Five Nights at Freddy's,Horror,5.5,33,109
+Alien,Horror,8.5,89,117
+A Quiet Place,Drama,7.5,82,90
+The First Omen,Horror,6.7,65,119
+Midsommar,Drama,7.1,72,148
+The Killing of a Sacred Deer,Drama,7,73,121
+Talk to Me,Horror,7.1,76,95
+Hereditary,Drama,7.3,87,127
+Dream Scenario,Comedy,6.9,74,102
+MaXXXine,Crime,7.1,66.9,103
+Exhuma,Horror,7,66.9,116.3
+Shaitaan,Drama,6.7,66.9,132
+28 Days Later,Drama,7.5,73,113
+Alien: Romulus,Horror,7.1,66.9,116.3
+Arcadian,Action,5.5,60,92
+A Quiet Place: Day One,Drama,7.1,66.9,116.3
+Barbarian,Horror,7,78,102
+The Coffee Table,Comedy,6.8,72,91
+Immaculate,Horror,5.8,57,89
+Pearl,Drama,7,76,103
+The Crow,Action,7.1,66.9,116.3
+The Invitation,Horror,5.3,45,105
+The Watchers,Fantasy,7.1,66.9,102
+In a Violent Nature,Drama,5.7,65,116.3
+The Strangers,Horror,6.1,47,86
+Tarot,Horror,4.9,36,92
+X,Horror,6.5,80,105
+Sting,Horror,5.7,57,92
+Godzilla Minus One,Action,7.9,81,124
+I Saw the TV Glow,Drama,6.9,84,100
+Late Night with the Devil,Horror,7.1,72,93
+Longlegs,Crime,7.1,66.9,101
+The Substance,Drama,8,83,116.3
+Abigail,Horror,6.7,62,109
+The Strangers: Chapter 1,Horror,5,43,91
+Beetlejuice Beetlejuice,Comedy,7.1,66.9,116.3
+Alien,Horror,8.5,89,117
+A Quiet Place,Drama,7.5,82,90
+Deadpool 2,Action,7.6,66,119
+Avengers: Endgame,Action,8.4,78,181
+Despicable Me 4,Animation,7.1,66.9,95
+Ghostbusters: Afterlife,Adventure,7,45,124
+Spider-Man: Across the Spider-Verse,Animation,8.6,86,140
+Star Wars: Episode I - The Phantom Menace,Action,6.5,51,136
+Spider-Man: No Way Home,Action,8.2,71,148
+Ghostbusters,Action,7.8,71,105
+Rebel Moon - Part Two: The Scargiver,Action,5.2,35,122
+The Matrix,Action,8.7,73,136
+Borderlands,Action,7.1,66.9,116.3
+Blade Runner 2049,Action,8,81,164
+Jurassic Park,Action,8.2,68,127
+The Fifth Element,Action,7.6,52,126
+The Hunger Games,Action,7.2,68,142
+Godzilla vs. Kong,Action,6.3,59,113
+Rebel Moon - Part One: A Child of Fire,Action,5.6,31,133
+28 Days Later,Drama,7.5,73,113
+Alien: Romulus,Horror,7.1,66.9,116.3
+Inception,Action,8.8,74,148
+A Quiet Place: Day One,Drama,7.1,66.9,116.3
+Dune,Action,6.3,41,137
+Mad Max Beyond Thunderdome,Action,6.2,71,107
+Interstellar,Adventure,8.7,74,169
+Her,Drama,8,91,126
+Planet of the Apes,Adventure,8,79,112
+The Hunger Games: The Ballad of Songbirds & Snakes,Action,6.7,54,157
+Upgrade,Action,7.5,67,100
+Mad Max 2: The Road Warrior,Action,7.6,77,96
+Sting,Horror,5.7,57,92
+Godzilla Minus One,Action,7.9,81,124
+Dawn of the Planet of the Apes,Action,7.6,79,130
+Rise of the Planet of the Apes,Action,7.6,68,105
+Planet of the Apes,Action,5.7,50,120
+Mad Max,Action,6.8,73,88
+War for the Planet of the Apes,Action,7.4,82,140
+Ghostbusters: Frozen Empire,Adventure,6.2,46,115
+Poor Things,Comedy,7.9,88,141
+Dune,Action,8,74,155
+Deadpool & Wolverine,Action,7.1,66.9,116.3
+Godzilla x Kong: The New Empire,Action,6.2,47,115
+Madame Web,Action,3.9,26,116
+Megalopolis,Drama,7,58,116.3
+Mad Max: Fury Road,Action,8.1,90,120
+Atlas,Action,5.6,37,118
+Dune: Part Two,Action,8.6,79,166
+Kingdom of the Planet of the Apes,Action,7.2,66,145
+Furiosa: A Mad Max Saga,Action,7.9,79,148
+The Lion King,Animation,6.8,55,118
+Spider-Man: Into the Spider-Verse,Animation,8.4,87,117
+The Incredibles,Animation,8,90,115
+Charlie and the Chocolate Factory,Adventure,6.7,72,115
+Harry Potter and the Chamber of Secrets,Adventure,7.4,63,161
+Shrek 2,Animation,7.3,75,93
+Minecraft,Action,7.1,66.9,116.3
+Willy Wonka & the Chocolate Factory,Adventure,7.8,67,100
+The Sandlot,Comedy,7.8,55,101
+Stardust,Adventure,7.6,66,127
+Elemental,Animation,7,58,101
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Adventure,6.9,75,143
+Miss Peregrine's Home for Peculiar Children,Adventure,6.7,57,127
+Harry Potter and the Deathly Hallows: Part 2,Adventure,8.1,85,130
+Ratatouille,Animation,8.1,96,111
+Harry Potter and the Prisoner of Azkaban,Adventure,7.9,82,142
+The Wizard of Oz,Adventure,8.1,92,102
+Moana,Animation,7.6,81,107
+Harold and the Purple Crayon,Animation,7.1,66.9,92
+Finding Nemo,Animation,8.2,90,100
+Sing 2,Animation,7.3,49,110
+Garfield: The Movie,Adventure,5,27,80
+The Little Mermaid,Adventure,7.2,59,135
+Harry Potter and the Goblet of Fire,Adventure,7.7,81,157
+Trolls Band Together,Animation,6,53,91
+Transformers One,Animation,7.1,66.9,116.3
+The Boy and the Heron,Animation,7.6,91,124
+The Lion King,Animation,8.5,88,88
+Cars,Animation,7.2,73,116
+Shrek,Animation,7.9,84,90
+Spirited Away,Animation,8.6,96,125
+Moana 2,Animation,7.1,66.9,116.3
+The Goonies,Adventure,7.7,62,114
+The Super Mario Bros. Movie,Animation,7,46,92
+The Princess Bride,Adventure,8,78,98
+Jumanji,Adventure,7.1,39,104
+Sonic the Hedgehog 3,Action,7.1,66.9,116.3
+Unsung Hero,Drama,7.8,46,113
+Despicable Me 4,Animation,7.1,66.9,95
+Migration,Animation,6.7,56,83
+Inside Out,Animation,8.1,94,95
+Descendants: The Rise of Red,Action,7.1,66.9,116.3
+Wish,Animation,5.6,47,95
+Harry Potter and the Sorcerer's Stone,Adventure,7.6,65,152
+Wonka,Adventure,7,66,116
+Kung Fu Panda 4,Animation,6.3,54,94
+Inside Out 2,Animation,7.1,66.9,100
+Thelma the Unicorn,Animation,5.8,64,93
+The Garfield Movie,Animation,5.9,31,101
+IF,Animation,6.7,46,104
+Twister,Action,6.5,68,113
+Land of Bad,Action,6.5,57,113
+You Can't Run Forever,Drama,4.4,66.9,102
+Saltburn,Drama,7,61,131
+Pearl,Drama,7,76,103
+Force of Nature: The Dry 2,Crime,6,58,120
+The Crow,Action,7.1,66.9,116.3
+Anatomy of a Fall,Crime,7.7,86,151
+The Surfer,Thriller,7.4,69,116.3
+Manjummel Boys,Adventure,8.4,66.9,116.3
+The Invitation,Horror,5.3,45,105
+The Watchers,Fantasy,7.1,66.9,102
+Where the Crawdads Sing,Drama,7.2,43,125
+Argylle,Action,5.7,35,139
+In a Violent Nature,Drama,5.7,65,116.3
+The Strangers,Horror,6.1,47,86
+The Judge,Crime,7.4,48,141
+Twisters,Action,7.1,66.9,116.3
+The Last Stop in Yuma County,Crime,7,72,90
+The Hunger Games: The Ballad of Songbirds & Snakes,Action,6.7,54,157
+Upgrade,Action,7.5,67,100
+Bullet Train,Action,7.3,49,127
+Beverly Hills Cop: Axel F,Action,7.1,66.9,115
+X,Horror,6.5,80,105
+Bad Boys: Ride or Die,Action,7.1,66.9,116.3
+Mad Max 2: The Road Warrior,Action,7.6,77,96
+Sting,Horror,5.7,57,92
+Monkey Man,Action,6.9,70,121
+The Beekeeper,Action,6.4,53,105
+Love Lies Bleeding,Action,6.7,77,104
+Dawn of the Planet of the Apes,Action,7.6,79,130
+Rise of the Planet of the Apes,Action,7.6,68,105
+Road House,Action,6.2,57,121
+Planet of the Apes,Action,5.7,50,120
+Mad Max,Action,6.8,73,88
+War for the Planet of the Apes,Action,7.4,82,140
+Longlegs,Crime,7.1,66.9,101
+Disturbia,Crime,6.8,62,105
+A Simple Favor,Comedy,6.8,67,117
+Mothers' Instinct,Drama,6.3,46,116.3
+Trigger Warning,Action,7.1,66.9,116.3
+Emilia Perez,Comedy,7.2,70,116.3
+Boy Kills World,Action,6.5,47,111
+Abigail,Horror,6.7,62,109
+Godzilla x Kong: The New Empire,Action,6.2,47,115
+Madame Web,Action,3.9,26,116
+Civil War,Action,7.4,75,109
+Mad Max: Fury Road,Action,8.1,90,120
+Atlas,Action,5.6,37,118
+Furiosa: A Mad Max Saga,Action,7.9,79,148
+"Red, White & Royal Blue",Comedy,7,62,118
+Despicable Me 4,Animation,7.1,66.9,95
+Migration,Animation,6.7,56,83
+Ghostbusters: Afterlife,Adventure,7,45,124
+Sasquatch Sunset,Action,5.6,65,88
+10 Things I Hate About You,Comedy,7.3,70,97
+Babes,Comedy,6.5,74,104
+No Hard Feelings,Comedy,6.4,59,103
+Ghostbusters,Action,7.8,71,105
+Borderlands,Action,7.1,66.9,116.3
+Dream Scenario,Comedy,6.9,74,102
+Seize Them!,Comedy,5,44,116.3
+The Wolf of Wall Street,Biography,8.2,75,180
+Inside Out,Animation,8.1,94,95
+Deadpool,Action,8,65,108
+Wish,Animation,5.6,47,95
+Madgaon Express,Comedy,7.2,66.9,116.3
+Crew,Comedy,6.1,66.9,116.3
+Miller's Girl,Comedy,5.2,41,93
+Wonka,Adventure,7,66,116
+The Coffee Table,Comedy,6.8,72,91
+Kung Fu Panda 4,Animation,6.3,54,94
+Anora,Comedy,7.9,89,116.3
+The Holdovers,Comedy,7.9,82,133
+Barbie,Adventure,6.8,80,114
+Argylle,Action,5.7,35,139
+American Fiction,Comedy,7.5,81,117
+Bullet Train,Action,7.3,49,127
+Once Upon a Time... in Hollywood,Comedy,7.6,84,161
+Beverly Hills Cop: Axel F,Action,7.1,66.9,115
+Inside Out 2,Animation,7.1,66.9,100
+Bad Boys: Ride or Die,Action,7.1,66.9,116.3
+Beetlejuice,Comedy,7.5,71,92
+Hit Man,Action,7.4,83,115
+Laapataa Ladies,Comedy,8.5,66.9,116.3
+Ghostbusters: Frozen Empire,Adventure,6.2,46,115
+A Simple Favor,Comedy,6.8,67,117
+Poor Things,Comedy,7.9,88,141
+Thelma the Unicorn,Animation,5.8,64,93
+Unfrosted,Biography,5.5,42,97
+Emilia Perez,Comedy,7.2,70,116.3
+Anyone But You,Comedy,6.1,52,103
+Deadpool & Wolverine,Action,7.1,66.9,116.3
+The Garfield Movie,Animation,5.9,31,101
+Kinds of Kindness,Comedy,7,72,164
+Mother of the Bride,Comedy,4.8,39,88
+Beetlejuice Beetlejuice,Comedy,7.1,66.9,116.3
+The Idea of You,Comedy,6.4,67,115
+IF,Animation,6.7,46,104
+The Fall Guy,Action,7.1,73,126
